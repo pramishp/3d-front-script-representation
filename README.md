@@ -18,12 +18,8 @@ The script processes each scene in the 3D-FRONT dataset, performing the followin
 
 ## Requirements
 
-- Python 3.7+
-- [trimesh](https://trimsh.org/)
-- numpy
-- scipy
-
-Other dependencies may be required for the broader project (see your environment setup).
+- `conda env create -f environment.yaml`
+- `conda activate scene2script`
 
 ---
 
