@@ -1,0 +1,44 @@
+# Path to your 3D-FRONT folder
+data:
+  root_dir: "/mnt/sv-share/3DFRONT/3D-FRONT"
+
+  # Which entity types always make up the “stage”
+  stage_categories:
+    - wall
+    - door
+    - window
+
+  # Probability [0.0–1.0] to include each bbox in the partial script
+  include_bbox_prob: 0.1
+
+  # Fraction of scenes to use for training (rest goes to val)
+  train_split: 0.8
+
+  # RNG seed for reproducible splits & bbox sampling
+  random_seed: 42
+
+# PyTorch DataLoader arguments
+dataloader:
+ # reduce batch size if you need faster debug iterations
+  batch_size: 4
+
+  # keep shuffling on for the train split
+  shuffle: true
+
+  # lower worker count to avoid the 34‑worker hang
+  num_workers: 0
+
+  # pin_memory can sometimes complicate debugging; disable it
+  pin_memory: false
+
+  # if you want your DataLoader to be picklable/resumable in a checkpoint
+  persistent_workers: true
+
+  # drop the last incomplete batch? up to you
+  drop_last: false
+
+  # how many batches each worker prefetches
+  prefetch_factor: 2
+
+  # 0 means “wait forever”; raise this if you see worker timeout errors
+  timeout: 0

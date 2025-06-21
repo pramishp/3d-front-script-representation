@@ -1,0 +1,38 @@
+{
+  "room_fragmented_wall_counts": {
+    "00004f89-9aa5-43c2-ae3c-129586be8aaa__Library-4425": 0,
+    "00004f89-9aa5-43c2-ae3c-129586be8aaa__MasterBedroom-5863": 0,
+    "00004f89-9aa5-43c2-ae3c-129586be8aaa__SecondBedroom-7177": 0,
+    "00004f89-9aa5-43c2-ae3c-129586be8aaa__LivingDiningRoom-3474": 0,
+    "0a8d471a-2587-458a-9214-586e003e9cf9__LivingDiningRoom-4017": 0,
+    "0a8d471a-2587-458a-9214-586e003e9cf9__Library-1772": 0,
+    "0a8d471a-2587-458a-9214-586e003e9cf9__Hallway-1213": 0,
+    "81f13b67-12e6-4837-b9ca-cd2842e33c1f__Bedroom-515": 0,
+    "82d13473-977b-457d-9e8a-6604dfe72c89__LivingDiningRoom-8375": 0,
+    "82d13473-977b-457d-9e8a-6604dfe72c89__Bedroom-15517": 0,
+    "84bf591e-7035-41e7-8e3c-23b6ec81cc6e__LivingDiningRoom-10021": 0,
+    "84bf591e-7035-41e7-8e3c-23b6ec81cc6e__Bedroom-5885": 0,
+    "84bf591e-7035-41e7-8e3c-23b6ec81cc6e__Bedroom-10078": 0,
+    "84bf591e-7035-41e7-8e3c-23b6ec81cc6e__Bedroom-10062": 0
+  },
+  "room_non_fragmented_wall_counts": {
+    "00004f89-9aa5-43c2-ae3c-129586be8aaa__Library-4425": 0,
+    "00004f89-9aa5-43c2-ae3c-129586be8aaa__MasterBedroom-5863": 0,
+    "00004f89-9aa5-43c2-ae3c-129586be8aaa__SecondBedroom-7177": 0,
+    "00004f89-9aa5-43c2-ae3c-129586be8aaa__LivingDiningRoom-3474": 0,
+    "0a8d471a-2587-458a-9214-586e003e9cf9__LivingDiningRoom-4017": 0,
+    "0a8d471a-2587-458a-9214-586e003e9cf9__Library-1772": 0,
+    "0a8d471a-2587-458a-9214-586e003e9cf9__Hallway-1213": 0,
+    "81f13b67-12e6-4837-b9ca-cd2842e33c1f__Bedroom-515": 0,
+    "82d13473-977b-457d-9e8a-6604dfe72c89__LivingDiningRoom-8375": 0,
+    "82d13473-977b-457d-9e8a-6604dfe72c89__Bedroom-15517": 0,
+    "84bf591e-7035-41e7-8e3c-23b6ec81cc6e__LivingDiningRoom-10021": 0,
+    "84bf591e-7035-41e7-8e3c-23b6ec81cc6e__Bedroom-5885": 0,
+    "84bf591e-7035-41e7-8e3c-23b6ec81cc6e__Bedroom-10078": 0,
+    "84bf591e-7035-41e7-8e3c-23b6ec81cc6e__Bedroom-10062": 0
+  },
+  "number_of_fragmented_walls": 0,
+  "number_of_non_fragmented_walls": 0,
+  "number_of_rooms_with_fragmented_walls": 14,
+  "number_of_rooms_with_non_fragmented_walls": 14
+}

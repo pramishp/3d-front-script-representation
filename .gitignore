@@ -1,0 +1,17 @@
+**/__pycache__
+runs/
+.vscode/
+.idea/
+.DS_Store
+tmp/
+SCRIPTS/
+SCRIPTS_TRY/
+SUMMARY/
+SUMMARY_TRY/
+all_logs/
+preprocessed-outputs/
+preprocessing_logs/
+unpreprocessed-outputs/
+VISUALIZE_SCRIPTS/
+VISUALIZE_SCRIPTS_TRY/
+

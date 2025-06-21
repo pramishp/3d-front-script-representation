@@ -1,0 +1,81 @@
+Scene Type Counts:
+  library: 1102
+  masterbedroom: 3431
+  secondbedroom: 2556
+  livingdiningroom: 3352
+  livingroom: 1243
+  bedroom: 2526
+  diningroom: 604
+  hallway: 286
+  otherroom: 200
+  corridor: 42
+  kidsroom: 1011
+  aisle: 79
+  cloakroom: 264
+  elderlyroom: 225
+  storageroom: 61
+  terrace: 16
+  lounge: 60
+  equipmentroom: 2
+  nannyroom: 14
+  kitchen: 5
+  stairwell: 19
+  laundryroom: 14
+  auditorium: 7
+  courtyard: 8
+  garage: 1
+  balcony: 1
+
+Average Object Types per Room: 5.53
+
+Total Distinct Object Types:
+  three-seat/multi-person sofa
+  bed frame
+  tv stand
+  loveseat sofa
+  king-size bed
+  drawer chest/corner cabinet
+  bunk bed
+  ceiling lamp
+  tea table
+  wine cabinet
+  barstool
+  corner/side table
+  coffee table
+  wine cooler
+  bar
+  shoe cabinet
+  u-shaped sofa
+  floor lamp
+  hanging chair
+  double bed
+  sideboard/side cabinet/console
+  chaise longue sofa
+  shelf
+  two-seat sofa
+  dining chair
+  single bed
+  armchair
+  footstool/sofastool/bed end stool/stool
+  three-seat/multi-seat sofa
+  dressing table
+  unknown_category
+  pendant lamp
+  wall lamp
+  lounge chair/cafe chair/office chair
+  folding chair
+  couch bed
+  kids bed
+  nightstand
+  dining table
+  bookcase/jewelry armoire
+  l-shaped sofa
+  sideboard/side cabinet/console table
+  children cabinet
+  dressing chair
+  wardrobe
+  classic chinese chair
+  lounge chair/book-chair/computer chair
+  lazy sofa
+  desk
+  round end table

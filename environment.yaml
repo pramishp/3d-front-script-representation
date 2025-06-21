@@ -1,0 +1,22 @@
+name: scene2script
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - peft
+    - scipy
+    - fastapi
+    - gradio
+    - markdown2
+    - openai
+    - opencv_python
+    - pycocotools
+    - ray
+    - Requests
+    - shortuuid
+    - tqdm
+    - transformers
+    - uvicorn

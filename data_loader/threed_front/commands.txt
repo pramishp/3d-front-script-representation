@@ -1,0 +1,221 @@
+DiningRoom-11628
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/DiningRoom-11628/concatenated_mesh.obj -w output_meshes/DiningRoom-11628/concatenated_windows_mesh.obj 
+
+
+
+
+
+
+MasterBedroom-104224
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/MasterBedroom-104224/concatenated_mesh.obj -w output_meshes/MasterBedroom-104224/concatenated_windows_mesh.obj 
+
+
+
+
+
+
+MasterBedroom-45114
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/MasterBedroom-45114/concatenated_mesh.obj -w output_meshes/MasterBedroom-45114/concatenated_windows_mesh.obj 
+
+
+
+
+KidsRoom-13557
+
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/KidsRoom-13557/concatenated_mesh.obj -w output_meshes/KidsRoom-13557/concatenated_windows_mesh.obj 
+
+
+
+
+
+
+
+SecondBedroom-198529
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/SecondBedroom-198529/concatenated_mesh.obj -w output_meshes/SecondBedroom-198529/concatenated_windows_mesh.obj 
+
+
+CloakRoom
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/CloakRoom-201079/concatenated_mesh.obj -w output_meshes/CloakRoom-201079/concatenated_windows_mesh.obj 
+
+
+
+LivingDiningRoom-59170
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-59170/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-59170/concatenated_windows_mesh.obj 
+
+
+LivingDiningRoom-199924
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-199924/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-199924/concatenated_windows_mesh.obj 
+
+
+
+
+
+
+mix: PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-199924/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-199924/concatenated_windows_mesh.obj 
+
+
+
+
+
+
+
+
+
+
+
+Aisle-31118
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Aisle-31118/concatenated_mesh.obj -w output_meshes/Aisle-31118/concatenated_windows_mesh.obj 
+
+
+
+
+
+
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/ElderlyRoom-19873/concatenated_mesh.obj -w output_meshes/ElderlyRoom-19873/concatenated_windows_mesh.obj 
+
+
+
+
+
+SecondBedroom-
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/SecondBedroom-5509/concatenated_mesh.obj -w output_meshes/SecondBedroom-5509/concatenated_windows_mesh.obj 
+
+
+BedRoom-1026
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/BedRoom-1026/concatenated_mesh.obj -w output_meshes/BedRoom-1026/concatenated_windows_mesh.obj 
+
+
+SecondBedroom-7177
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/SecondBedroom-7177/concatenated_mesh.obj -w output_meshes/SecondBedroom-7177/concatenated_windows_mesh.obj 
+
+Library-4425
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Library-4425/concatenated_mesh.obj -w output_meshes/Library-4425/concatenated_windows_mesh.obj 
+
+MasterBedroom-5863
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/MasterBedroom-5863/concatenated_mesh.obj -w output_meshes/MasterBedroom-5863/concatenated_windows_mesh.obj 
+
+Library-1772
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Library-1772/concatenated_mesh.obj -w output_meshes/Library-1772/concatenated_windows_mesh.obj 
+
+Hallway-1213
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Hallway-1213/concatenated_mesh.obj -w output_meshes/Hallway-1213/concatenated_windows_mesh.obj 
+
+LivingDiningRoom-3474
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-3474/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-3474/concatenated_windows_mesh.obj 
+
+Bedroom-10062
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-10062/concatenated_mesh.obj -w output_meshes/Bedroom-10062/concatenated_windows_mesh.obj 
+
+Bedroom-10078 
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-10078/concatenated_mesh.obj -w output_meshes/Bedroom-10078/concatenated_windows_mesh.obj 
+
+Bedroom-5885
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-5885/concatenated_mesh.obj -w output_meshes/Bedroom-5885/concatenated_windows_mesh.obj 
+
+LivingDiningRoom-10021
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-10021/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-10021/concatenated_windows_mesh.obj 
+
+LivingDiningRoom-8375
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-8375/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-8375/concatenated_windows_mesh.obj 
+
+Bedroom-15517
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-15517/concatenated_mesh.obj -w output_meshes/Bedroom-15517/concatenated_windows_mesh.obj 
+
+Bedroom-515
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-515/concatenated_mesh.obj -w output_meshes/Bedroom-515/concatenated_windows_mesh.obj 
+
+LivingDiningRoom-4017
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-4017/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-4017/concatenated_windows_mesh.obj 
+
+
+
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-10062/concatenated_mesh.obj -w output_meshes/Bedroom-10062/concatenated_windows_mesh.obj 
+
+
+
+MasterBedroom-29735
+
+
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/MasterBedroom-29735/concatenated_mesh.obj -w output_meshes/MasterBedroom-29735/concatenated_windows_mesh.obj 
+
+
+
+
+
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/KidsRoom-51362/concatenated_mesh.obj -w output_meshes/KidsRoom-51362/concatenated_windows_mesh.obj 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SecondBedroom-7177
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/SecondBedroom-7177/concatenated_mesh.obj -w output_meshes/SecondBedroom-7177/concatenated_windows_mesh.obj -wa output_meshes/SecondBedroom-7177/concatenated_walls_mesh.obj
+
+Library-4425
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Library-4425/concatenated_mesh.obj -w output_meshes/Library-4425/concatenated_windows_mesh.obj -wa output_meshes/Library-4425/concatenated_walls_mesh.obj
+
+MasterBedroom-5863
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/MasterBedroom-5863/concatenated_mesh.obj -w output_meshes/MasterBedroom-5863/concatenated_windows_mesh.obj -wa output_meshes/MasterBedroom-5863/concatenated_walls_mesh.obj
+
+Library-1772
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Library-1772/concatenated_mesh.obj -w output_meshes/Library-1772/concatenated_windows_mesh.obj -wa output_meshes/Library-1772/concatenated_walls_mesh.obj
+
+Hallway-1213
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Hallway-1213/concatenated_mesh.obj -w output_meshes/Hallway-1213/concatenated_windows_mesh.obj -wa output_meshes/Hallway-1213/concatenated_walls_mesh.obj
+
+LivingDiningRoom-3474
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-3474/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-3474/concatenated_windows_mesh.obj -wa output_meshes/LivingDiningRoom-3474/concatenated_walls_mesh.obj
+
+Bedroom-10062
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-10062/concatenated_mesh.obj -w output_meshes/Bedroom-10062/concatenated_windows_mesh.obj -wa output_meshes/Bedroom-10062/concatenated_walls_mesh.obj
+
+Bedroom-10078 
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-10078/concatenated_mesh.obj -w output_meshes/Bedroom-10078/concatenated_windows_mesh.obj -wa output_meshes/Bedroom-10078/concatenated_walls_mesh.obj
+
+Bedroom-5885
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-5885/concatenated_mesh.obj -w output_meshes/Bedroom-5885/concatenated_windows_mesh.obj -wa output_meshes/Bedroom-5885/concatenated_walls_mesh.obj
+
+LivingDiningRoom-10021
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-10021/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-10021/concatenated_windows_mesh.obj -wa output_meshes/LivingDiningRoom-10021/concatenated_walls_mesh.obj
+
+LivingDiningRoom-8375
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-8375/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-8375/concatenated_windows_mesh.obj -wa output_meshes/LivingDiningRoom-8375/concatenated_walls_mesh.obj
+
+Bedroom-15517
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-15517/concatenated_mesh.obj -w output_meshes/Bedroom-15517/concatenated_windows_mesh.obj -wa output_meshes/Bedroom-15517/concatenated_walls_mesh.obj
+
+Bedroom-515
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-515/concatenated_mesh.obj -w output_meshes/Bedroom-515/concatenated_windows_mesh.obj -wa output_meshes/Bedroom-515/concatenated_walls_mesh.obj
+
+LivingDiningRoom-4017
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/LivingDiningRoom-4017/concatenated_mesh.obj -w output_meshes/LivingDiningRoom-4017/concatenated_windows_mesh.obj -wa output_meshes/LivingDiningRoom-4017/concatenated_walls_mesh.obj
+
+
+PYTHONPATH=./ python vis/visualize.py -l data_loader/pred.txt -m output_meshes/Bedroom-10062/concatenated_mesh.obj -w output_meshes/Bedroom-10062/concatenated_windows_mesh.obj 
+
